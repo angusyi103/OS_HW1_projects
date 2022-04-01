@@ -1,0 +1,1 @@
+cmd_/home/angus/Desktop/OperationSystem/HW1/CH2/simple.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/angus/Desktop/OperationSystem/HW1/CH2/simple.ko /home/angus/Desktop/OperationSystem/HW1/CH2/simple.o /home/angus/Desktop/OperationSystem/HW1/CH2/simple.mod.o;  true
